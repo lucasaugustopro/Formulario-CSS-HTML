@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Formulario</title>
+</head>
+<body>
+    <div>
+    <h1 id="titulo">Formulario para Desenvolvedores</h1>
+   
+    </div>
+    <form>
+       <div class="campo"> 
+        Nome:<input type="text"name="nome">
+        Sobrenome <input type="text" name="sobrenome">  
+        Endereço: <input type="text" name="endereco">
+        Numero: <input type="text"name="numero">
+        Email <input type="email" name="email">
+        </div>
+        <div class="campo">
+            Senioridade
+            <select id="senioridade" required>
+              <option selected disabled value="">Selecione</option>
+              <option>Júnior</option>
+              <option>Pleno</option>
+              <option>Sênior</option>
+            </select>
+        </div>
+        <div class="campo">
+            Qual das areas voce desenvolve?
+            
+                <input type="radio" name="devweb" value="frontend" checked>Front-end
+                <input type="radio" name="devweb" value="backend">Back-end
+                <input type="radio" name="devweb" value="fullstack">Fullstack
+            
+        </div>
+        <div class="campo">
+            Me conte mais sobre suas experiencias
+            <textarea rows="6" style="width: 26em" id="experiencia" name="experiencia"></textarea>
+        </div>
+        <button class="botao" type="submit">Enviar</button> 
+        
+    </form>
+</body>
+</html>
