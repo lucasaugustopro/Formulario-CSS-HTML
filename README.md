@@ -8,4 +8,3 @@
 - Usando seletores agrupados no CSS.
 
 
-![Screenshot_1](https://user-images.githubusercontent.com/103678075/165612411-c35ab702-ee3a-4181-a968-c7334c06546d.png)
