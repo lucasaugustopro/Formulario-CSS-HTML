@@ -1,10 +1,15 @@
-# formulario-css-html
-- Projeto pessoal simples inspirado na Rafaella Ballerini.
-- Formulario usando HTML e CSS.
-- Utilizando a tag form para criação do formulario.
-- Utilizando os diferentes tipos de inputs.
-- Utilizando Divs para organizar a página.
-- Utilizando a tag button. 
-- Usando seletores agrupados no CSS.
-
+# Projeto Formulário 
+ <h2 align="center">Projeto Formulário HTML CSS</h2><br>
+ <p>Projeto pessoal de um formulário específico para desenvolvedores inspirado no vídeo da Rafaella Ballerini.</p>
+ <h2 align="center">Funcionalidades</h2>
+ <ul>
+ <li>O usuário informa seu nome.</li>
+ <li>O usuário informa seu sobrenome.</li>
+ <li>O usuário informa seu endereço.</li>
+ <li>O usuário informa seu número.</li>
+ <li>O usuário informa seu email.</li>
+ <li>O usuário informa sua senioridade sendo Senior, Pleno e Júnior.</li>
+ <li>Através de um checkbox ele informa a área que ele desenvolve sendo Front-end, Back-End e Full-Stack.</li>
+ <li>E ao final do formulário tem uma grande área para ele informar mais sobre ele e sobre sua carreira.</li>
+ </ul>
 
